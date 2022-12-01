@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 111 .
+sudo chmod -r 111 0x01-shell_permissions
