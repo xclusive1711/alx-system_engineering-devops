@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -exec chmod ugo+x {} \;
+chmod -R +111 */
